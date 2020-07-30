@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/codefire53-github-io/static/css/main.e1d1a0e4.chunk.css",
+    "main.js": "/codefire53-github-io/static/js/main.d2c544d0.chunk.js",
+    "main.js.map": "/codefire53-github-io/static/js/main.d2c544d0.chunk.js.map",
+    "runtime-main.js": "/codefire53-github-io/static/js/runtime-main.8d19bca3.js",
+    "runtime-main.js.map": "/codefire53-github-io/static/js/runtime-main.8d19bca3.js.map",
+    "static/js/2.5e1e1b43.chunk.js": "/codefire53-github-io/static/js/2.5e1e1b43.chunk.js",
+    "static/js/2.5e1e1b43.chunk.js.map": "/codefire53-github-io/static/js/2.5e1e1b43.chunk.js.map",
+    "index.html": "/codefire53-github-io/index.html",
+    "precache-manifest.1d1affcc697379d1fd6d0af20ce491c1.js": "/codefire53-github-io/precache-manifest.1d1affcc697379d1fd6d0af20ce491c1.js",
+    "service-worker.js": "/codefire53-github-io/service-worker.js",
+    "static/css/main.e1d1a0e4.chunk.css.map": "/codefire53-github-io/static/css/main.e1d1a0e4.chunk.css.map",
+    "static/js/2.5e1e1b43.chunk.js.LICENSE.txt": "/codefire53-github-io/static/js/2.5e1e1b43.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/codefire53-github-io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d19bca3.js",
+    "static/js/2.5e1e1b43.chunk.js",
+    "static/css/main.e1d1a0e4.chunk.css",
+    "static/js/main.d2c544d0.chunk.js"
+  ]
+}
